@@ -5,22 +5,26 @@
 <!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
-
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
   - [Install](#install)
   - [Usage](#usage)
   - [Run tests](#run-tests)
+  - [Deployment](#triangular_flag_on_post-deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
+
 
 <!-- PROJECT DESCRIPTION -->
 
@@ -57,7 +61,7 @@
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> The project repository is public so anyone can just from it from my Github account.
+> The project repository is public so anyone can acess from it from my Github account.
 Then after clone it into your local machine
 
 ### Prerequisites
@@ -70,19 +74,18 @@ In order to run this project you need:
 -A working browser installed
 
 ### Setup
-Clone this repository to your desired folder:
+-Clone this repository to your desired folder:
 
--On GitHub.com, navigate to the main page of the repository.
+   ```sh
+  cd my-folder
+$ git clone git@github.com:myaccount/project_to clone.git
+```
+-Install 
 
--Above the list of files, click  Code.
-
--Copy the URL for the repository.(Use either HTTPS or SSH)
-
--Open your terminal and Change the current working directory to the location where you want the cloned directory.
-
--Type git clone, and then paste the URL you copied earlier.
-
--Press Enter to create your local clone.
+   ```sh
+  cd project_to clone
+  
+ ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -110,11 +113,28 @@ Clone this repository to your desired folder:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- CONTRIBUTING -->
+## 🤝 Contributing <a name="contributing"></a>
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <!-- SUPPORT -->
 ## ⭐️ Show your support <a name="support"></a>
 
 > Let's Collaborate and give a star
       If you like this project...
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- ACKNOWLEDGEMENTS -->
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+I would like to thank Microverse for this oppunity I get in improving myself professionally everyday.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
