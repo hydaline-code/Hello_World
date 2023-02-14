@@ -10,20 +10,16 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
   - [Install](#install)
   - [Usage](#usage)
   - [Run tests](#run-tests)
-  - [Deployment](#triangular_flag_on_post-deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
-- [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
@@ -75,6 +71,18 @@ In order to run this project you need:
 
 ### Setup
 Clone this repository to your desired folder:
+
+-On GitHub.com, navigate to the main page of the repository.
+
+-Above the list of files, click  Code.
+
+-Copy the URL for the repository.(Use either HTTPS or SSH)
+
+-Open your terminal and Change the current working directory to the location where you want the cloned directory.
+
+-Type git clone, and then paste the URL you copied earlier.
+
+-Press Enter to create your local clone.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
